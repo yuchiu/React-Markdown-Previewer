@@ -1,6 +1,5 @@
 import React from "react"
 import Preview from './Preview'
-import Marked from "marked"
 
 class Markdown extends React.Component {
   handleChange(e) {
